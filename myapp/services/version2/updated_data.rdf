@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ns1="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/Django">
+    <ns1:name>Django Framework</ns1:name>
+    <ns1:category>Web Framework</ns1:category>
+    <ns1:description>A high-level Python web framework.</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/book/1">
+    <dc:title>Introduction to RDF</dc:title>
+    <dc:creator>John Doe</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/book/2">
+    <dc:title>Learning SPARQL</dc:title>
+    <dc:creator>Jane Smith</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/book/3">
+    <dc:title>Advanced Semantic Web</dc:title>
+    <dc:creator>John Doe</dc:creator>
+  </rdf:Description>
+</rdf:RDF>

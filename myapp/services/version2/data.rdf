@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ex="http://example.org/">
+
+  <rdf:Description rdf:about="http://example.org/Python">
+    <ex:name>Python Programming Language</ex:name>
+    <ex:category>Programming</ex:category>
+    <ex:description>A high-level programming language.</ex:description>
+  </rdf:Description>
+
+</rdf:RDF>
